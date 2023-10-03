@@ -1,5 +1,4 @@
 import React from "react";
-import web from "../src/Images/image2.svg";
 import "./index.css";
 import { NavLink } from "react-router-dom";
 

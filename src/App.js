@@ -7,7 +7,6 @@ import About from "./About";
 import Contact from "./Contact";
 import Service from "./Service";
 import Navbar from "./Navbar";
-import Footer from "./Footer";
 
 function App() {
   return (
@@ -19,7 +18,6 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/service" element={<Service />} />
       </Routes>
-      {/* <Footer /> */}
     </>
   );
 }
