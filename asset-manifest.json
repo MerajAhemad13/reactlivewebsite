@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-mantiq/static/css/main.84a6d1a2.css",
-    "main.js": "/react-mantiq/static/js/main.5999aebc.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-mantiq/static/js/787.28cb0dcd.chunk.js",
-    "static/media/marketing.png": "/react-mantiq/static/media/marketing.8db291b6c4a1bc162256.png",
-    "static/media/app.jpg": "/react-mantiq/static/media/app.8027c08c79789b5cbe76.jpg",
-    "static/media/digital.jpg": "/react-mantiq/static/media/digital.21a5de5079686a864d58.jpg",
-    "static/media/android.png": "/react-mantiq/static/media/android.bf21d477ae77c874a6a9.png",
-    "static/media/software.jpg": "/react-mantiq/static/media/software.d6e46cc6b5c48e5c4ce4.jpg",
-    "static/media/web.png": "/react-mantiq/static/media/web.6795e6ab1be35bb615ea.png",
-    "static/media/img1.svg": "/react-mantiq/static/media/img1.d12e2a271e618bd9bc130b61d3930482.svg",
-    "static/media/contact-us.svg": "/react-mantiq/static/media/contact-us.13c80369250d8f0aff509318d9d484eb.svg",
-    "index.html": "/react-mantiq/index.html",
-    "main.84a6d1a2.css.map": "/react-mantiq/static/css/main.84a6d1a2.css.map",
-    "main.5999aebc.js.map": "/react-mantiq/static/js/main.5999aebc.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-mantiq/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/reactlivewebsite/static/css/main.84a6d1a2.css",
+    "main.js": "/reactlivewebsite/static/js/main.ef65f160.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js",
+    "static/media/marketing.png": "/reactlivewebsite/static/media/marketing.8db291b6c4a1bc162256.png",
+    "static/media/app.jpg": "/reactlivewebsite/static/media/app.8027c08c79789b5cbe76.jpg",
+    "static/media/digital.jpg": "/reactlivewebsite/static/media/digital.21a5de5079686a864d58.jpg",
+    "static/media/android.png": "/reactlivewebsite/static/media/android.bf21d477ae77c874a6a9.png",
+    "static/media/software.jpg": "/reactlivewebsite/static/media/software.d6e46cc6b5c48e5c4ce4.jpg",
+    "static/media/web.png": "/reactlivewebsite/static/media/web.6795e6ab1be35bb615ea.png",
+    "static/media/img1.svg": "/reactlivewebsite/static/media/img1.d12e2a271e618bd9bc130b61d3930482.svg",
+    "static/media/contact-us.svg": "/reactlivewebsite/static/media/contact-us.13c80369250d8f0aff509318d9d484eb.svg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.84a6d1a2.css.map": "/reactlivewebsite/static/css/main.84a6d1a2.css.map",
+    "main.ef65f160.js.map": "/reactlivewebsite/static/js/main.ef65f160.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84a6d1a2.css",
-    "static/js/main.5999aebc.js"
+    "static/js/main.ef65f160.js"
   ]
 }
