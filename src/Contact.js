@@ -18,8 +18,9 @@ function Contact() {
     });
   };
 
-  const formSubmit = (e) => {
-    e.preventDefault();
+  const formSubmit = () => {
+    console.log("Form Submitted");
+    // e.preventDefault();
     alert(
       `My name is ${data.fullname}. My mobile number is ${data.phone} and email is ${data.email}`
     );
@@ -32,7 +33,7 @@ function Contact() {
       <div className="container contact_div">
         <div className="row">
           <div className="col-md-6 col-10 mx-auto">
-            <form onSubmit={formSubmit}>
+            <form onSubmit={() => formSubmit()}>
               <div className="mb-3">
                 <label className="form-label">Fullname</label>
                 <input
@@ -80,7 +81,12 @@ function Contact() {
                 />
                 <label className="form-check-label">Check me out</label>
               </div>
-              <button type="button" className="btn btn-outline-primary">
+              <button
+                type="button"
+                className="btn btn-outline-primary"
+                // onClick={formSubmit}
+
+              >
                 Submit
               </button>
             </form>
